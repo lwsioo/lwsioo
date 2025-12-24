@@ -26,9 +26,6 @@ Focused Computer Science student with a strong foundation in low-level programmi
   <a href="https://discord.com/users/700411833503547473" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
-  <a href="mailto:alessio.bragetti@protonmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" alt="Email" />
-  </a>
 </p>
 
 ### Badges
