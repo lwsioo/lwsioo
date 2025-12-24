@@ -17,7 +17,7 @@ Focused Computer Science student with a strong foundation in low-level programmi
                   </p>
                   
 
-                ### Socials
+  ### Socials
 
 <p align="left">
   <a href="https://github.com/lwsioo" target="_blank">
