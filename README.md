@@ -8,7 +8,7 @@ Focused Computer Science student with a strong foundation in low-level programmi
 
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [alessio.bragetti@protonmail.com](mailto:alessio.bragetti@protonmail.com)
-*   🚀  I'm currently working on [A C-based command-line RPG inspired by Stranger Things.]([http://https://github.com/lwsioo/StrangerThingsRPG](https://github.com/lwsioo/StrangerThingsRPG))
+*   🚀  I'm currently working on [A C-based command-line RPG inspired by Stranger Things.](https://github.com/lwsioo/StrangerThingsRPG)
 *   🧠  I'm currently learning Python, and modern CSS and JS frameworks.
 *   👥  I'm looking to collaborate on Interesting open-source projects or junior-level software development roles.
 *   💬  Ask me about Trilingual: 🇮🇹 Italian (Native), 🇬🇧 English (C1), 🇪🇸 Spanish (B2).
